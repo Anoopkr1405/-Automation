@@ -1,0 +1,603 @@
+16:59:50.810 [main] INFO  - <------Gym Test Scenario Execution Ended succesfully------>
+17:08:19.670 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+17:08:19.859 [main] INFO  - Justdial logo is verified successfully
+17:08:26.156 [main] INFO  - Popup Handled succesfully
+17:08:26.512 [main] INFO  - Current location is selected
+17:08:26.733 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:08:26.738 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:08:26.739 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:08:26.948 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:08:26.953 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:08:26.954 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:08:26.955 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:08:26.956 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:08:26.958 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:08:26.976 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:08:26.979 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:08:26.986 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:08:26.989 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:08:26.990 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:08:26.992 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:08:26.993 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:08:26.994 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+17:08:27.080 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:08:27.081 [main] TRACE - Resolving type for handle themefd26doctype
+17:08:27.146 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+17:08:27.153 [main] TRACE - Resolving type for handle ctstylesheet4257type
+17:08:27.158 [main] TRACE - Resolving type for handle ctfonts6623type
+17:08:27.162 [main] TRACE - Resolving type for handle ctfont14d8type
+17:08:27.168 [main] TRACE - Resolving type for handle ctfills2c6ftype
+17:08:27.171 [main] TRACE - Resolving type for handle ctfill550ctype
+17:08:27.173 [main] TRACE - Resolving type for handle ctborders0d66type
+17:08:27.175 [main] TRACE - Resolving type for handle ctborderf935type
+17:08:27.179 [main] TRACE - Resolving type for handle ctcellxfs1322type
+17:08:27.181 [main] TRACE - Resolving type for handle ctxf97f7type
+17:08:27.184 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+17:08:27.186 [main] TRACE - Resolving type for handle ctdxfsb26atype
+17:08:27.189 [main] TRACE - Resolving type for handle cttablestyles872ftype
+17:08:27.192 [main] TRACE - Resolving type for handle sstf81fdoctype
+17:08:27.196 [main] TRACE - Resolving type for handle ctsst44f3type
+17:08:27.205 [main] TRACE - Resolving type for handle ctrsta472type
+17:08:27.221 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:08:27.222 [main] TRACE - Resolving type for handle workbookec17doctype
+17:08:27.228 [main] TRACE - Resolving type for handle ctworkbook83c3type
+17:08:27.233 [main] TRACE - Resolving type for handle ctsheets49fdtype
+17:08:27.236 [main] TRACE - Resolving type for handle ctsheet4dbetype
+17:08:27.238 [main] TRACE - Resolving type for handle strelationshipid1e94type
+17:08:27.241 [main] TRACE - Resolving type for handle worksheetf539doctype
+17:08:27.247 [main] TRACE - Resolving type for handle ctworksheet530dtype
+17:08:27.254 [main] TRACE - Resolving type for handle ctsheetdata8408type
+17:08:27.257 [main] TRACE - Resolving type for handle ctrowdd39type
+17:08:27.263 [main] TRACE - Resolving type for handle ctcell842btype
+17:08:27.271 [main] TRACE - Resolving type for handle stcellrefe4e0type
+17:08:27.280 [main] TRACE - Resolving type for handle ctcols627ctype
+17:08:27.286 [main] TRACE - Resolving type for handle ctcola95ftype
+17:08:27.319 [main] TRACE - Resolving type for handle stxstringf179type
+17:08:27.323 [main] TRACE - Resolving type for handle stcelltypebf95type
+17:08:34.194 [main] INFO  - Searched Car washing services are visible on screen
+17:08:57.789 [main] INFO  - 4.0+ rating filter is applied after clicking on rating filter under AllFilters tag
+17:08:57.914 [main] INFO  - *****Car Washing services name and rating is printed on console and excel*****
+17:09:01.134 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+17:09:01.139 [main] TRACE - Resolving type for handle ctbookviewsb864type
+17:09:01.142 [main] TRACE - Resolving type for handle ctbookviewf677type
+17:09:01.147 [main] TRACE - Resolving type for handle propertiesee84doctype
+17:09:01.150 [main] TRACE - Resolving type for handle ctproperties3f10type
+17:09:01.157 [main] TRACE - Resolving type for handle properties288cdoctype
+17:09:01.159 [main] TRACE - Resolving type for handle ctproperties2c18type
+17:09:01.166 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+17:09:01.169 [main] TRACE - Resolving type for handle ctcolord2c2type
+17:09:01.172 [main] TRACE - Resolving type for handle ctfontname2dc3type
+17:09:01.174 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+17:09:01.177 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+17:09:01.181 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+17:09:01.185 [main] TRACE - Resolving type for handle stfontschemef36dtype
+17:09:01.187 [main] TRACE - Resolving type for handle ctpatternfill7452type
+17:09:01.192 [main] TRACE - Resolving type for handle stpatterntype7939type
+17:09:01.194 [main] TRACE - Resolving type for handle ctborderpre497type
+17:09:01.197 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+17:09:01.199 [main] TRACE - Resolving type for handle stfontid9d63type
+17:09:01.202 [main] TRACE - Resolving type for handle stfillida097type
+17:09:01.205 [main] TRACE - Resolving type for handle stborderid1a80type
+17:09:01.207 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+17:09:01.211 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+17:09:01.214 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+17:09:01.217 [main] TRACE - Resolving type for handle ctsheetview0f43type
+17:09:01.222 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+17:09:01.223 [main] TRACE - Resolving type for handle stref90a2type
+17:09:01.225 [main] TRACE - Resolving type for handle ctpagemargins5455type
+17:09:01.582 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+17:09:01.603 [main] DEBUG - Save core properties part
+17:09:01.603 [main] DEBUG - Save content types part
+17:09:01.672 [main] DEBUG - Save package relationships
+17:09:01.676 [main] DEBUG - Save part 'docProps/app.xml'
+17:09:01.677 [main] DEBUG - Save part 'docProps/core.xml'
+17:09:01.680 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:09:01.680 [main] DEBUG - Save part 'xl/styles.xml'
+17:09:01.681 [main] DEBUG - Save part 'xl/workbook.xml'
+17:09:01.683 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:09:01.684 [main] DEBUG - Save content types part
+17:09:01.686 [main] DEBUG - Save package relationships
+17:09:01.687 [main] DEBUG - Save part 'docProps/app.xml'
+17:09:01.687 [main] DEBUG - Save part 'docProps/core.xml'
+17:09:01.689 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:09:01.689 [main] DEBUG - Save part 'xl/styles.xml'
+17:09:01.689 [main] DEBUG - Save part 'xl/workbook.xml'
+17:09:01.691 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:09:01.818 [main] INFO  - ***Screenshot of Car washing services taken successfully***
+17:09:01.819 [main] INFO  - <------Car Washing services Test Scenario Execution ended successfully------>
+17:09:04.654 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+17:09:12.076 [main] INFO  - FreeListing is launched
+17:09:12.263 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:09:12.264 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:09:12.265 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:09:12.277 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:09:14.404 [main] INFO  - Wrong Detail is entered and Start Now button is clicked
+17:09:16.569 [main] INFO  - Invalid message is printed
+17:09:17.634 [main] INFO  - *****Window navigated back successfully*****
+17:09:17.634 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+17:09:20.689 [main] INFO  - <------Gym Test Scenario Execution Started succesfully------>
+17:09:27.209 [main] INFO  - Gym section under fitness is clicked
+17:09:30.490 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:09:30.491 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:09:32.997 [main] DEBUG - Save content types part
+17:09:32.999 [main] DEBUG - Save package relationships
+17:09:33.001 [main] DEBUG - Save part 'docProps/app.xml'
+17:09:33.001 [main] DEBUG - Save part 'docProps/core.xml'
+17:09:33.003 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:09:33.003 [main] DEBUG - Save part 'xl/styles.xml'
+17:09:33.003 [main] DEBUG - Save part 'xl/workbook.xml'
+17:09:33.005 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:09:33.006 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:09:33.007 [main] INFO  - *****Sub-menu Items of Gyms are printed*****
+17:09:33.209 [main] INFO  - ***Screenshot of Gym sub-Menu items taken successfully***
+17:09:36.299 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:09:36.300 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:09:36.338 [main] DEBUG - Save content types part
+17:09:36.340 [main] DEBUG - Save package relationships
+17:09:36.341 [main] DEBUG - Save part 'docProps/app.xml'
+17:09:36.341 [main] DEBUG - Save part 'docProps/core.xml'
+17:09:36.343 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:09:36.343 [main] DEBUG - Save part 'xl/styles.xml'
+17:09:36.343 [main] DEBUG - Save part 'xl/workbook.xml'
+17:09:36.345 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:09:36.345 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:09:36.346 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:09:36.347 [main] INFO  - Dropdown List of sub-menu gym items are printed
+17:09:36.347 [main] INFO  - <------Gym Test Scenario Execution Ended succesfully------>
+10:38:05.346 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+10:38:05.397 [main] INFO  - Justdial logo is verified successfully
+10:38:05.819 [main] INFO  - Popup Handled succesfully
+10:38:06.569 [main] INFO  - Current location is selected
+10:38:06.870 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:38:06.874 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:38:06.875 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:38:07.036 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:38:07.039 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:38:07.040 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:38:07.040 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:38:07.041 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:38:07.041 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:38:07.052 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:38:07.053 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:38:07.059 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:38:07.060 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:38:07.061 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:38:07.062 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:38:07.063 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:38:07.063 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:38:07.103 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:38:07.106 [main] TRACE - Resolving type for handle themefd26doctype
+10:38:07.157 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:38:07.163 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:38:07.167 [main] TRACE - Resolving type for handle ctfonts6623type
+10:38:07.172 [main] TRACE - Resolving type for handle ctfont14d8type
+10:38:07.176 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:38:07.180 [main] TRACE - Resolving type for handle ctfill550ctype
+10:38:07.182 [main] TRACE - Resolving type for handle ctborders0d66type
+10:38:07.185 [main] TRACE - Resolving type for handle ctborderf935type
+10:38:07.191 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:38:07.194 [main] TRACE - Resolving type for handle ctxf97f7type
+10:38:07.197 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:38:07.199 [main] TRACE - Resolving type for handle ctdxfsb26atype
+10:38:07.203 [main] TRACE - Resolving type for handle cttablestyles872ftype
+10:38:07.209 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:38:07.213 [main] TRACE - Resolving type for handle ctsst44f3type
+10:38:07.224 [main] TRACE - Resolving type for handle ctrsta472type
+10:38:07.236 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:38:07.237 [main] TRACE - Resolving type for handle workbookec17doctype
+10:38:07.241 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:38:07.245 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:38:07.247 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:38:07.249 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:38:07.252 [main] TRACE - Resolving type for handle worksheetf539doctype
+10:38:07.258 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:38:07.265 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:38:07.267 [main] TRACE - Resolving type for handle ctrowdd39type
+10:38:07.272 [main] TRACE - Resolving type for handle ctcell842btype
+10:38:07.277 [main] TRACE - Resolving type for handle stcellrefe4e0type
+10:38:07.283 [main] TRACE - Resolving type for handle ctcols627ctype
+10:38:07.290 [main] TRACE - Resolving type for handle ctcola95ftype
+10:38:07.310 [main] TRACE - Resolving type for handle stxstringf179type
+10:38:07.314 [main] TRACE - Resolving type for handle stcelltypebf95type
+10:38:13.642 [main] INFO  - Searched Car washing services are visible on screen
+10:42:02.248 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+10:42:02.310 [main] INFO  - Justdial logo is verified successfully
+10:42:02.874 [main] INFO  - Popup Handled succesfully
+10:42:03.348 [main] INFO  - Current location is selected
+10:42:03.529 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:42:03.531 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:42:03.532 [main] DEBUG - Parsing relationship: /_rels/.rels
+10:42:03.649 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:42:03.651 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:42:03.652 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:42:03.652 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:42:03.652 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:42:03.653 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:42:03.663 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+10:42:03.664 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:42:03.667 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+10:42:03.668 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:42:03.669 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+10:42:03.670 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:42:03.670 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+10:42:03.671 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+10:42:03.713 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+10:42:03.714 [main] TRACE - Resolving type for handle themefd26doctype
+10:42:03.757 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+10:42:03.763 [main] TRACE - Resolving type for handle ctstylesheet4257type
+10:42:03.767 [main] TRACE - Resolving type for handle ctfonts6623type
+10:42:03.769 [main] TRACE - Resolving type for handle ctfont14d8type
+10:42:03.772 [main] TRACE - Resolving type for handle ctfills2c6ftype
+10:42:03.774 [main] TRACE - Resolving type for handle ctfill550ctype
+10:42:03.776 [main] TRACE - Resolving type for handle ctborders0d66type
+10:42:03.778 [main] TRACE - Resolving type for handle ctborderf935type
+10:42:03.780 [main] TRACE - Resolving type for handle ctcellxfs1322type
+10:42:03.781 [main] TRACE - Resolving type for handle ctxf97f7type
+10:42:03.783 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+10:42:03.784 [main] TRACE - Resolving type for handle ctdxfsb26atype
+10:42:03.785 [main] TRACE - Resolving type for handle cttablestyles872ftype
+10:42:03.787 [main] TRACE - Resolving type for handle sstf81fdoctype
+10:42:03.789 [main] TRACE - Resolving type for handle ctsst44f3type
+10:42:03.796 [main] TRACE - Resolving type for handle ctrsta472type
+10:42:03.804 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:42:03.805 [main] TRACE - Resolving type for handle workbookec17doctype
+10:42:03.810 [main] TRACE - Resolving type for handle ctworkbook83c3type
+10:42:03.813 [main] TRACE - Resolving type for handle ctsheets49fdtype
+10:42:03.815 [main] TRACE - Resolving type for handle ctsheet4dbetype
+10:42:03.816 [main] TRACE - Resolving type for handle strelationshipid1e94type
+10:42:03.818 [main] TRACE - Resolving type for handle worksheetf539doctype
+10:42:03.821 [main] TRACE - Resolving type for handle ctworksheet530dtype
+10:42:03.828 [main] TRACE - Resolving type for handle ctsheetdata8408type
+10:42:03.830 [main] TRACE - Resolving type for handle ctrowdd39type
+10:42:03.833 [main] TRACE - Resolving type for handle ctcell842btype
+10:42:03.837 [main] TRACE - Resolving type for handle stcellrefe4e0type
+10:42:03.841 [main] TRACE - Resolving type for handle ctcols627ctype
+10:42:03.845 [main] TRACE - Resolving type for handle ctcola95ftype
+10:42:03.860 [main] TRACE - Resolving type for handle stxstringf179type
+10:42:03.861 [main] TRACE - Resolving type for handle stcelltypebf95type
+15:55:29.788 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+15:55:30.031 [main] INFO  - Justdial logo is verified successfully
+15:55:34.056 [main] INFO  - Popup Handled succesfully
+15:55:35.111 [main] INFO  - Current location is selected
+15:55:35.673 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:35.677 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:35.681 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:55:36.090 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:55:36.096 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:55:36.097 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:55:36.099 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:55:36.099 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:55:36.101 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:55:36.128 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:55:36.131 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:55:36.138 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:55:36.141 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:55:36.143 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:55:36.145 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:55:36.146 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:55:36.149 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+15:55:36.240 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:55:36.242 [main] TRACE - Resolving type for handle themefd26doctype
+15:55:36.368 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+15:55:36.376 [main] TRACE - Resolving type for handle ctstylesheet4257type
+15:55:36.387 [main] TRACE - Resolving type for handle ctfonts6623type
+15:55:36.393 [main] TRACE - Resolving type for handle ctfont14d8type
+15:55:36.402 [main] TRACE - Resolving type for handle ctfills2c6ftype
+15:55:36.407 [main] TRACE - Resolving type for handle ctfill550ctype
+15:55:36.411 [main] TRACE - Resolving type for handle ctborders0d66type
+15:55:36.419 [main] TRACE - Resolving type for handle ctborderf935type
+15:55:36.423 [main] TRACE - Resolving type for handle ctcellxfs1322type
+15:55:36.433 [main] TRACE - Resolving type for handle ctxf97f7type
+15:55:36.437 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+15:55:36.441 [main] TRACE - Resolving type for handle ctdxfsb26atype
+15:55:36.446 [main] TRACE - Resolving type for handle cttablestyles872ftype
+15:55:36.452 [main] TRACE - Resolving type for handle sstf81fdoctype
+15:55:36.459 [main] TRACE - Resolving type for handle ctsst44f3type
+15:55:36.481 [main] TRACE - Resolving type for handle ctrsta472type
+15:55:36.517 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:55:36.519 [main] TRACE - Resolving type for handle workbookec17doctype
+15:55:36.526 [main] TRACE - Resolving type for handle ctworkbook83c3type
+15:55:36.535 [main] TRACE - Resolving type for handle ctsheets49fdtype
+15:55:36.539 [main] TRACE - Resolving type for handle ctsheet4dbetype
+15:55:36.544 [main] TRACE - Resolving type for handle strelationshipid1e94type
+15:55:36.553 [main] TRACE - Resolving type for handle worksheetf539doctype
+15:55:36.559 [main] TRACE - Resolving type for handle ctworksheet530dtype
+15:55:36.570 [main] TRACE - Resolving type for handle ctsheetdata8408type
+15:55:36.575 [main] TRACE - Resolving type for handle ctrowdd39type
+15:55:36.584 [main] TRACE - Resolving type for handle ctcell842btype
+15:55:36.594 [main] TRACE - Resolving type for handle stcellrefe4e0type
+15:55:36.606 [main] TRACE - Resolving type for handle ctcols627ctype
+15:55:36.613 [main] TRACE - Resolving type for handle ctcola95ftype
+15:55:36.647 [main] TRACE - Resolving type for handle stxstringf179type
+15:55:36.652 [main] TRACE - Resolving type for handle stcelltypebf95type
+15:55:43.527 [main] INFO  - Searched Car washing services are visible on screen
+15:57:08.879 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+15:57:08.997 [main] INFO  - Justdial logo is verified successfully
+15:57:13.214 [main] INFO  - Popup Handled succesfully
+15:57:14.338 [main] INFO  - Current location is selected
+15:57:14.686 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:57:14.691 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:57:14.694 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:57:14.958 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:57:14.960 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:57:14.961 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:57:14.962 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:57:14.963 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:57:14.965 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:57:14.983 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:57:14.984 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:57:14.990 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:57:14.994 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:57:14.996 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:57:15.000 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:57:15.001 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:57:15.004 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+15:57:15.088 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:57:15.091 [main] TRACE - Resolving type for handle themefd26doctype
+15:57:15.183 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+15:57:15.191 [main] TRACE - Resolving type for handle ctstylesheet4257type
+15:57:15.203 [main] TRACE - Resolving type for handle ctfonts6623type
+15:57:15.210 [main] TRACE - Resolving type for handle ctfont14d8type
+15:57:15.221 [main] TRACE - Resolving type for handle ctfills2c6ftype
+15:57:15.226 [main] TRACE - Resolving type for handle ctfill550ctype
+15:57:15.230 [main] TRACE - Resolving type for handle ctborders0d66type
+15:57:15.237 [main] TRACE - Resolving type for handle ctborderf935type
+15:57:15.242 [main] TRACE - Resolving type for handle ctcellxfs1322type
+15:57:15.248 [main] TRACE - Resolving type for handle ctxf97f7type
+15:57:15.254 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+15:57:15.258 [main] TRACE - Resolving type for handle ctdxfsb26atype
+15:57:15.267 [main] TRACE - Resolving type for handle cttablestyles872ftype
+15:57:15.277 [main] TRACE - Resolving type for handle sstf81fdoctype
+15:57:15.287 [main] TRACE - Resolving type for handle ctsst44f3type
+15:57:15.309 [main] TRACE - Resolving type for handle ctrsta472type
+15:57:15.339 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:57:15.341 [main] TRACE - Resolving type for handle workbookec17doctype
+15:57:15.348 [main] TRACE - Resolving type for handle ctworkbook83c3type
+15:57:15.356 [main] TRACE - Resolving type for handle ctsheets49fdtype
+15:57:15.361 [main] TRACE - Resolving type for handle ctsheet4dbetype
+15:57:15.366 [main] TRACE - Resolving type for handle strelationshipid1e94type
+15:57:15.370 [main] TRACE - Resolving type for handle worksheetf539doctype
+15:57:15.377 [main] TRACE - Resolving type for handle ctworksheet530dtype
+15:57:15.390 [main] TRACE - Resolving type for handle ctsheetdata8408type
+15:57:15.395 [main] TRACE - Resolving type for handle ctrowdd39type
+15:57:15.402 [main] TRACE - Resolving type for handle ctcell842btype
+15:57:15.415 [main] TRACE - Resolving type for handle stcellrefe4e0type
+15:57:15.428 [main] TRACE - Resolving type for handle ctcols627ctype
+15:57:15.439 [main] TRACE - Resolving type for handle ctcola95ftype
+15:57:15.481 [main] TRACE - Resolving type for handle stxstringf179type
+15:57:15.485 [main] TRACE - Resolving type for handle stcelltypebf95type
+15:57:22.757 [main] INFO  - Searched Car washing services are visible on screen
+15:57:47.317 [main] INFO  - 4.0+ rating filter is applied after clicking on rating filter under AllFilters tag
+15:57:47.728 [main] INFO  - *****Car Washing services name and rating is printed on console and excel*****
+15:57:53.237 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+15:57:53.249 [main] TRACE - Resolving type for handle ctbookviewsb864type
+15:57:53.254 [main] TRACE - Resolving type for handle ctbookviewf677type
+15:57:53.265 [main] TRACE - Resolving type for handle propertiesee84doctype
+15:57:53.270 [main] TRACE - Resolving type for handle ctproperties3f10type
+15:57:53.281 [main] TRACE - Resolving type for handle properties288cdoctype
+15:57:53.286 [main] TRACE - Resolving type for handle ctproperties2c18type
+15:57:53.295 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+15:57:53.302 [main] TRACE - Resolving type for handle ctcolord2c2type
+15:57:53.307 [main] TRACE - Resolving type for handle ctfontname2dc3type
+15:57:53.311 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+15:57:53.315 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+15:57:53.322 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+15:57:53.327 [main] TRACE - Resolving type for handle stfontschemef36dtype
+15:57:53.332 [main] TRACE - Resolving type for handle ctpatternfill7452type
+15:57:53.338 [main] TRACE - Resolving type for handle stpatterntype7939type
+15:57:53.341 [main] TRACE - Resolving type for handle ctborderpre497type
+15:57:53.346 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+15:57:53.350 [main] TRACE - Resolving type for handle stfontid9d63type
+15:57:53.354 [main] TRACE - Resolving type for handle stfillida097type
+15:57:53.358 [main] TRACE - Resolving type for handle stborderid1a80type
+15:57:53.361 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+15:57:53.369 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+15:57:53.374 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+15:57:53.378 [main] TRACE - Resolving type for handle ctsheetview0f43type
+15:57:53.387 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+15:57:53.390 [main] TRACE - Resolving type for handle stref90a2type
+15:57:53.393 [main] TRACE - Resolving type for handle ctpagemargins5455type
+15:57:54.170 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+15:57:54.196 [main] DEBUG - Save core properties part
+15:57:54.197 [main] DEBUG - Save content types part
+15:57:54.286 [main] DEBUG - Save package relationships
+15:57:54.292 [main] DEBUG - Save part 'docProps/app.xml'
+15:57:54.293 [main] DEBUG - Save part 'docProps/core.xml'
+15:57:54.297 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:57:54.297 [main] DEBUG - Save part 'xl/styles.xml'
+15:57:54.298 [main] DEBUG - Save part 'xl/workbook.xml'
+15:57:54.300 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:57:54.302 [main] DEBUG - Save content types part
+15:57:54.304 [main] DEBUG - Save package relationships
+15:57:54.305 [main] DEBUG - Save part 'docProps/app.xml'
+15:57:54.305 [main] DEBUG - Save part 'docProps/core.xml'
+15:57:54.307 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:57:54.308 [main] DEBUG - Save part 'xl/styles.xml'
+15:57:54.308 [main] DEBUG - Save part 'xl/workbook.xml'
+15:57:54.310 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:57:54.671 [main] INFO  - ***Screenshot of Car washing services taken successfully***
+15:57:54.671 [main] INFO  - <------Car Washing services Test Scenario Execution ended successfully------>
+15:58:09.488 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+15:58:18.686 [main] INFO  - FreeListing is launched
+15:58:19.263 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:58:19.266 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:58:19.267 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:58:19.289 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+15:58:21.608 [main] INFO  - Wrong Detail is entered and Start Now button is clicked
+15:58:24.028 [main] INFO  - Invalid message is printed
+15:58:26.950 [main] INFO  - *****Window navigated back successfully*****
+15:58:26.950 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+15:58:43.300 [main] INFO  - <------Gym Test Scenario Execution Started succesfully------>
+15:58:45.974 [main] INFO  - Gym section under fitness is clicked
+15:58:49.047 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:58:49.049 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:58:49.519 [main] DEBUG - Save content types part
+15:58:49.521 [main] DEBUG - Save package relationships
+15:58:49.522 [main] DEBUG - Save part 'docProps/app.xml'
+15:58:49.522 [main] DEBUG - Save part 'docProps/core.xml'
+15:58:49.523 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:58:49.524 [main] DEBUG - Save part 'xl/styles.xml'
+15:58:49.524 [main] DEBUG - Save part 'xl/workbook.xml'
+15:58:49.525 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:58:49.526 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:58:49.527 [main] INFO  - *****Sub-menu Items of Gyms are printed*****
+15:58:49.854 [main] INFO  - ***Screenshot of Gym sub-Menu items taken successfully***
+15:58:52.039 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:58:52.040 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:58:52.104 [main] DEBUG - Save content types part
+15:58:52.107 [main] DEBUG - Save package relationships
+15:58:52.110 [main] DEBUG - Save part 'docProps/app.xml'
+15:58:52.110 [main] DEBUG - Save part 'docProps/core.xml'
+15:58:52.114 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+15:58:52.115 [main] DEBUG - Save part 'xl/styles.xml'
+15:58:52.116 [main] DEBUG - Save part 'xl/workbook.xml'
+15:58:52.119 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+15:58:52.119 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+15:58:52.119 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+15:58:52.123 [main] INFO  - Dropdown List of sub-menu gym items are printed
+15:58:52.123 [main] INFO  - <------Gym Test Scenario Execution Ended succesfully------>
+00:09:24.446 [main] INFO  - <------Car Washing services Test Scenario Execution Started------>
+00:09:24.594 [main] INFO  - Justdial logo is verified successfully
+00:09:30.542 [main] INFO  - Popup Handled succesfully
+00:09:31.033 [main] INFO  - Current location is selected
+00:09:31.233 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:09:31.235 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:09:31.237 [main] DEBUG - Parsing relationship: /_rels/.rels
+00:09:31.369 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+00:09:31.372 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+00:09:31.372 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+00:09:31.373 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+00:09:31.373 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+00:09:31.374 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+00:09:31.383 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+00:09:31.383 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+00:09:31.387 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+00:09:31.388 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+00:09:31.388 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+00:09:31.389 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+00:09:31.390 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+00:09:31.390 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+00:09:31.423 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+00:09:31.424 [main] TRACE - Resolving type for handle themefd26doctype
+00:09:31.471 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+00:09:31.474 [main] TRACE - Resolving type for handle ctstylesheet4257type
+00:09:31.478 [main] TRACE - Resolving type for handle ctfonts6623type
+00:09:31.481 [main] TRACE - Resolving type for handle ctfont14d8type
+00:09:31.488 [main] TRACE - Resolving type for handle ctfills2c6ftype
+00:09:31.492 [main] TRACE - Resolving type for handle ctfill550ctype
+00:09:31.494 [main] TRACE - Resolving type for handle ctborders0d66type
+00:09:31.497 [main] TRACE - Resolving type for handle ctborderf935type
+00:09:31.501 [main] TRACE - Resolving type for handle ctcellxfs1322type
+00:09:31.506 [main] TRACE - Resolving type for handle ctxf97f7type
+00:09:31.509 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+00:09:31.511 [main] TRACE - Resolving type for handle ctdxfsb26atype
+00:09:31.514 [main] TRACE - Resolving type for handle cttablestyles872ftype
+00:09:31.517 [main] TRACE - Resolving type for handle sstf81fdoctype
+00:09:31.521 [main] TRACE - Resolving type for handle ctsst44f3type
+00:09:31.528 [main] TRACE - Resolving type for handle ctrsta472type
+00:09:31.538 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:09:31.539 [main] TRACE - Resolving type for handle workbookec17doctype
+00:09:31.542 [main] TRACE - Resolving type for handle ctworkbook83c3type
+00:09:31.545 [main] TRACE - Resolving type for handle ctsheets49fdtype
+00:09:31.546 [main] TRACE - Resolving type for handle ctsheet4dbetype
+00:09:31.548 [main] TRACE - Resolving type for handle strelationshipid1e94type
+00:09:31.551 [main] TRACE - Resolving type for handle worksheetf539doctype
+00:09:31.554 [main] TRACE - Resolving type for handle ctworksheet530dtype
+00:09:31.558 [main] TRACE - Resolving type for handle ctsheetdata8408type
+00:09:31.564 [main] TRACE - Resolving type for handle ctrowdd39type
+00:09:31.568 [main] TRACE - Resolving type for handle ctcell842btype
+00:09:31.573 [main] TRACE - Resolving type for handle stcellrefe4e0type
+00:09:31.577 [main] TRACE - Resolving type for handle ctcols627ctype
+00:09:31.580 [main] TRACE - Resolving type for handle ctcola95ftype
+00:09:31.592 [main] TRACE - Resolving type for handle stxstringf179type
+00:09:31.594 [main] TRACE - Resolving type for handle stcelltypebf95type
+00:09:38.423 [main] INFO  - Searched Car washing services are visible on screen
+00:10:02.105 [main] INFO  - 4.0+ rating filter is applied after clicking on rating filter under AllFilters tag
+00:10:02.338 [main] INFO  - *****Car Washing services name and rating is printed on console and excel*****
+00:10:05.294 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+00:10:05.298 [main] TRACE - Resolving type for handle ctbookviewsb864type
+00:10:05.300 [main] TRACE - Resolving type for handle ctbookviewf677type
+00:10:05.303 [main] TRACE - Resolving type for handle propertiesee84doctype
+00:10:05.305 [main] TRACE - Resolving type for handle ctproperties3f10type
+00:10:05.309 [main] TRACE - Resolving type for handle properties288cdoctype
+00:10:05.311 [main] TRACE - Resolving type for handle ctproperties2c18type
+00:10:05.314 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+00:10:05.315 [main] TRACE - Resolving type for handle ctcolord2c2type
+00:10:05.317 [main] TRACE - Resolving type for handle ctfontname2dc3type
+00:10:05.318 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+00:10:05.319 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+00:10:05.321 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+00:10:05.322 [main] TRACE - Resolving type for handle stfontschemef36dtype
+00:10:05.324 [main] TRACE - Resolving type for handle ctpatternfill7452type
+00:10:05.326 [main] TRACE - Resolving type for handle stpatterntype7939type
+00:10:05.328 [main] TRACE - Resolving type for handle ctborderpre497type
+00:10:05.329 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+00:10:05.330 [main] TRACE - Resolving type for handle stfontid9d63type
+00:10:05.331 [main] TRACE - Resolving type for handle stfillida097type
+00:10:05.332 [main] TRACE - Resolving type for handle stborderid1a80type
+00:10:05.333 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+00:10:05.335 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+00:10:05.337 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+00:10:05.338 [main] TRACE - Resolving type for handle ctsheetview0f43type
+00:10:05.341 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+00:10:05.343 [main] TRACE - Resolving type for handle stref90a2type
+00:10:05.344 [main] TRACE - Resolving type for handle ctpagemargins5455type
+00:10:05.616 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+00:10:05.630 [main] DEBUG - Save core properties part
+00:10:05.631 [main] DEBUG - Save content types part
+00:10:05.673 [main] DEBUG - Save package relationships
+00:10:05.677 [main] DEBUG - Save part 'docProps/app.xml'
+00:10:05.677 [main] DEBUG - Save part 'docProps/core.xml'
+00:10:05.679 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+00:10:05.679 [main] DEBUG - Save part 'xl/styles.xml'
+00:10:05.679 [main] DEBUG - Save part 'xl/workbook.xml'
+00:10:05.680 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+00:10:05.681 [main] DEBUG - Save content types part
+00:10:05.682 [main] DEBUG - Save package relationships
+00:10:05.682 [main] DEBUG - Save part 'docProps/app.xml'
+00:10:05.682 [main] DEBUG - Save part 'docProps/core.xml'
+00:10:05.683 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+00:10:05.683 [main] DEBUG - Save part 'xl/styles.xml'
+00:10:05.683 [main] DEBUG - Save part 'xl/workbook.xml'
+00:10:05.684 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+00:10:05.952 [main] INFO  - ***Screenshot of Car washing services taken successfully***
+00:10:05.952 [main] INFO  - <------Car Washing services Test Scenario Execution ended successfully------>
+00:10:12.121 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+00:10:19.037 [main] INFO  - FreeListing is launched
+00:10:19.326 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:10:19.327 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:10:19.327 [main] DEBUG - Parsing relationship: /_rels/.rels
+00:10:19.334 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+00:10:21.435 [main] INFO  - Wrong Detail is entered and Start Now button is clicked
+00:10:23.640 [main] INFO  - Invalid message is printed
+00:10:24.855 [main] INFO  - *****Window navigated back successfully*****
+00:10:24.855 [main] INFO  - <------FreeListing Test Scenario Execution Started succesfully------>
+00:10:30.762 [main] INFO  - <------Gym Test Scenario Execution Started succesfully------>
+00:10:37.058 [main] INFO  - Gym section under fitness is clicked
+00:10:39.490 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:10:39.491 [main] DEBUG - Parsing relationship: /_rels/.rels
+00:10:39.722 [main] DEBUG - Save content types part
+00:10:39.723 [main] DEBUG - Save package relationships
+00:10:39.724 [main] DEBUG - Save part 'docProps/app.xml'
+00:10:39.724 [main] DEBUG - Save part 'docProps/core.xml'
+00:10:39.725 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+00:10:39.725 [main] DEBUG - Save part 'xl/styles.xml'
+00:10:39.725 [main] DEBUG - Save part 'xl/workbook.xml'
+00:10:39.726 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+00:10:39.726 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+00:10:39.727 [main] INFO  - *****Sub-menu Items of Gyms are printed*****
+00:10:39.960 [main] INFO  - ***Screenshot of Gym sub-Menu items taken successfully***
+00:10:40.936 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:10:40.937 [main] DEBUG - Parsing relationship: /_rels/.rels
+00:10:40.959 [main] DEBUG - Save content types part
+00:10:40.959 [main] DEBUG - Save package relationships
+00:10:40.960 [main] DEBUG - Save part 'docProps/app.xml'
+00:10:40.961 [main] DEBUG - Save part 'docProps/core.xml'
+00:10:40.961 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+00:10:40.961 [main] DEBUG - Save part 'xl/styles.xml'
+00:10:40.962 [main] DEBUG - Save part 'xl/workbook.xml'
+00:10:40.964 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+00:10:40.964 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+00:10:40.964 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+00:10:40.965 [main] INFO  - Dropdown List of sub-menu gym items are printed
+00:10:40.965 [main] INFO  - <------Gym Test Scenario Execution Ended succesfully------>
